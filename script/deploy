@@ -1,4 +1,4 @@
-ssh root@45.118.151.218 <<EOF
+ssh root@3.21.41.33 <<EOF
  cd nodejenkin
  git pull
  npm install --production
